@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Major Version</key>
+		<integer>1</integer>
+		<key>Minor Version</key>
+		<integer>1</integer>
+		<key>Application Version</key>
+		<string>12.7.3.46</string>
+		<key>Tracks</key>
+		<dict>
+			<key>2832</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>2832</integer>
+				<key>Size</key>
+				<integer>8240241</integer>
+				<key>Total Time</key>
+				<integer>203640</integer>
+				<key>Track Number</key>
+				<integer>1</integer>
+				<key>Date Modified</key>
+				<date>2015-12-08T16:53:12Z</date>
+				<key>Date Added</key>
+				<date>2015-12-09T01:52:26Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>48000</integer>
+				<key>Play Count</key>
+				<integer>8</integer>
+				<key>Play Date</key>
+				<integer>3582391661</integer>
+				<key>Play Date UTC</key>
+				<date>2017-07-08T18:47:41Z</date>
+				<key>Skip Count</key>
+				<integer>2</integer>
+				<key>Skip Date</key>
+				<date>2017-05-21T07:34:22Z</date>
+				<key>Artwork Count</key>
+				<integer>1</integer>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+				<key>Name</key>
+				<string>When I'm With You Feat. Shimmy Timmy (Sakso Remix)</string>
+				<key>Artist</key>
+				<string>Stereo Express, Thalstroem, AKA AKA</string>
+				<key>Kind</key>
+				<string>MPEG-Audiodatei</string>
+			</dict>
+			<key>2834</key>
+			<dict>
+				<key>Track ID</key>
+				<integer>2834</integer>
+				<key>Size</key>
+				<integer>8901903</integer>
+				<key>Total Time</key>
+				<integer>222192</integer>
+				<key>Track Number</key>
+				<integer>1</integer>
+				<key>Date Modified</key>
+				<date>2015-12-08T23:53:12Z</date>
+				<key>Date Added</key>
+				<date>2015-12-09T01:52:26Z</date>
+				<key>Bit Rate</key>
+				<integer>320</integer>
+				<key>Sample Rate</key>
+				<integer>48000</integer>
+				<key>Play Count</key>
+				<integer>48</integer>
+				<key>Play Date</key>
+				<integer>3594565407</integer>
+				<key>Play Date UTC</key>
+				<date>2017-11-26T17:23:27Z</date>
+				<key>Skip Count</key>
+				<integer>3</integer>
+				<key>Skip Date</key>
+				<date>2017-11-16T16:33:35Z</date>
+				<key>Artwork Count</key>
+				<integer>1</integer>
+				<key>Track Type</key>
+				<string>File</string>
+				<key>File Folder Count</key>
+				<integer>5</integer>
+				<key>Library Folder Count</key>
+				<integer>1</integer>
+				<key>Artist</key>
+				<string>Calvin Harris</string>
+				<key>Name</key>
+				<string>Summer</string>
+				<key>Kind</key>
+				<string>MPEG-Audiodatei</string>
+			</dict>
+		</dict>
+		<key>Playlists</key>
+		<array>
+			<dict>
+				<key>Playlist ID</key>
+				<integer>18131</integer>
+				<key>All Items</key>
+				<true />
+				<key>Name</key>
+				<string>Chill</string>
+				<key>Playlist Items</key>
+				<array>
+					<dict>
+						<key>Track ID</key>
+						<integer>2832</integer>
+					</dict>
+					<dict>
+						<key>Track ID</key>
+						<integer>2834</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</plist>
